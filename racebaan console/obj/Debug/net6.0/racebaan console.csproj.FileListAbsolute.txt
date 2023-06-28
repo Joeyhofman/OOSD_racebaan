@@ -1,0 +1,15 @@
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\bin\Debug\net6.0\racebaan console.exe
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\bin\Debug\net6.0\racebaan console.deps.json
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\bin\Debug\net6.0\racebaan console.runtimeconfig.json
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\bin\Debug\net6.0\racebaan console.dll
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\bin\Debug\net6.0\racebaan console.pdb
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.csproj.AssemblyReference.cache
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.AssemblyInfoInputs.cache
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.AssemblyInfo.cs
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.csproj.CoreCompileInputs.cache
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.dll
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\refint\racebaan console.dll
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.pdb
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\racebaan console.genruntimeconfig.cache
+C:\Users\joeyh\OneDrive\Desktop\Windesheim\programmeren in c sharp\racebaan\racebaan\racebaan console\obj\Debug\net6.0\ref\racebaan console.dll
